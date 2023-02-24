@@ -21,3 +21,5 @@ change
 change
 
 hot-fix change
+
+conflict test

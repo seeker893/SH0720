@@ -19,7 +19,4 @@ change
 change
 change
 change
-
 hot-fix change
-
-conflict test
